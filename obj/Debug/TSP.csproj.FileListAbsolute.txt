@@ -1,1 +1,8 @@
 C:\Users\Marcin\Documents\GitHub\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\obj\Debug\TSP.Properties.Resources.resources
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\obj\Debug\TSP.csproj.GenerateResource.Cache
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Marcin\Documents\GitHub\TSP\TSP\obj\Debug\TSP.pdb
